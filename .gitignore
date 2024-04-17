@@ -36,3 +36,9 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+
+# 忽略所有，只保留.c文件
+*
+!*.c
+!*.h
+
